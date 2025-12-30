@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Distance ～Special Full Version～",
+  "base_artist": "青山　操",
+  "createdAt": "2025-12-30T15:24:43.002367Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Distance ~Special Full Version~",
+      "artist": "青山 操",
+      "has_synced": false,
+      "path": "select/pl_01_Distance_~Special_Full_Version~_青山_操.txt"
+    }
+  ]
+}
